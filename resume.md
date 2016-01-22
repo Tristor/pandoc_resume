@@ -2,7 +2,7 @@ Tyler Duzan
 ===========
 
 ----
-Tyler Duzan is an 11 year veteran of the tech industry. He got his start with computers at a
+Tyler Duzan is an 12 year veteran of the tech industry. He got his start with computers at a
 very young age, learning his first programming language (BASIC) at six years old. As he got
 older his fascination with computers progressed into a passion for all things technology with
 an emphasis on security. As part of exploring this passion he has learned a broad range of
@@ -10,15 +10,29 @@ technical skills including a deep understanding of Windows, Linux, and networkin
 Rackspace Hosting for a little over four years he was involved in many projects including the
 launch of Cloud Databases, writing deployment automation for Cloud Identity enabling the Sydney
 region launch, acting as the Global Technical Product Owner for Linux operating systems at
-Rackspace, and many more. Most recently, Tyler has taken on a new role as a Senior DevOps
-Engineer working at the storage startup SolidFire in the Boulder, Colorado area.
+Rackspace, and many more. Most recently, Tyler has taken on the role of Senior Technical
+Operations Engineer working remotely at Eligible, a Y-Combinator backed startup in
+Brooklyn, New York
 ----
 
 Experience
 ----------
 
+**Eligible Inc.**  
+Senior Technical Operations Engineer    Dec 2015 - Present
+
+* Managed an environment in the Cloud using Terraform and Amazon Web Services (AWS)
+* Managed environment configurations using Chef, using automated testing with
+  ServerSpec, Food Critic, and Rubocop.
+* Assist the security team as needed with assessing and mitigating any
+  security issues found in the environment.
+* Managed user server and VPN access via Chef and a set of Rake tasks
+* Responsible to ensure that all scripts, cookbooks, and other IP
+  produced by the team is documented thoroughly.
+
+
 **SolidFire Inc.**  
-Senior Devops Engineer    Oct 2014 - Present
+Senior Devops Engineer    Oct 2014 - Dec 2015
 
 * Helped grow team from 5 to 12 engineers by developing standards for
   interviewing, onboarding, and documentation.
