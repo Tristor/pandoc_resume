@@ -20,7 +20,6 @@ Experience
 **Eligible Inc.**  
 Senior Technical Operations Engineer    Dec 2015 - Present
 
-* Self-motivated remote worker
 * Managed an environment in the Cloud using Terraform and Amazon Web Services (AWS)
 * Managed environment configurations using Chef, using automated testing with
   ServerSpec, Food Critic, and Rubocop.
