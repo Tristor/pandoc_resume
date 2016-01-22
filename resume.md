@@ -10,9 +10,8 @@ technical skills including a deep understanding of Windows, Linux, and networkin
 Rackspace Hosting for a little over four years he was involved in many projects including the
 launch of Cloud Databases, writing deployment automation for Cloud Identity enabling the Sydney
 region launch, acting as the Global Technical Product Owner for Linux operating systems at
-Rackspace, and many more. Most recently, Tyler has taken on the role of Senior Technical
-Operations Engineer working remotely at Eligible, a Y-Combinator backed startup in
-Brooklyn, New York
+Rackspace, and many more. Most recently, Tyler has joined the Y-Combinator backed health
+technology startup Eligible as a Senior Technical Operations Engineer working remotely.
 ----
 
 Experience
@@ -21,6 +20,7 @@ Experience
 **Eligible Inc.**  
 Senior Technical Operations Engineer    Dec 2015 - Present
 
+* Self-motivated remote worker
 * Managed an environment in the Cloud using Terraform and Amazon Web Services (AWS)
 * Managed environment configurations using Chef, using automated testing with
   ServerSpec, Food Critic, and Rubocop.
