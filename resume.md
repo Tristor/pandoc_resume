@@ -18,7 +18,7 @@ Experience
 ----------
 
 **Eligible Inc.**  
-Senior Technical Operations Engineer    Dec 2015 - Present
+Senior Technical Operations Engineer    Jan 2016 - Present
 
 * Managed an environment in the Cloud using Terraform and Amazon Web Services (AWS)
 * Managed environment configurations using Chef, using automated testing with
@@ -28,6 +28,8 @@ Senior Technical Operations Engineer    Dec 2015 - Present
 * Managed user server and VPN access via Chef and a set of Rake tasks
 * Responsible to ensure that all scripts, cookbooks, and other IP
   produced by the team is documented thoroughly.
+* Wrote custom Nagios/Icinga and Telegraf plugins in Golang
+* Wrote custom backup/restore processes in Ruby
 
 
 **SolidFire Inc.**  
