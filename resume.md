@@ -287,11 +287,18 @@ License 6035308    Jan 2008
 
 Publications
 ------------
+[Setting Up `fgallery`​ on OS X with Homebrew](https://tristor.ro/blog/2016/11/19/setting-up-fgallery-on-os-x-with-homebrew/)
+Self-Published Online   Nov 2016
 
-[Securing Email: Building a Secure Email
-Server](http://securemail.tristor.ro/#!server.md)  
+[Commit Signing with Git, Hub, Keybase, and GPG](https://eligible.com/blog/commit-signing-with-git-hub-keybase-and-gpg/)
+Eligible Inc. Engineering Blog   Nov 2016
+
+[Setting up OpenVPN on CentOS 7 using DigitalOcean](https://tristor.ro/blog/2016/05/05/setting-up-openvpn-on-centos-7-using-digitalocean/)
+Self-Published Online   May 2016
+
+[Securing Email: Building a Secure Email Server](http://securemail.tristor.ro/#!server.md)  
 Self-Published Online   Aug 2014
 
 ----
-> <tristor@gmail.com> • +1 (210)213-7249  
+> <tristor@tristor.ro> • +1 (210)213-7249  
 > 7404 Forest Stream • Live Oak, TX 78233
