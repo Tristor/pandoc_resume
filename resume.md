@@ -12,6 +12,15 @@ launch of Cloud Databases, writing deployment automation for Cloud Identity enab
 region launch, acting as the Global Technical Product Owner for Linux operating systems at
 Rackspace, and many more. Most recently, Tyler has joined the Y-Combinator backed health
 technology startup Eligible as a Senior Technical Operations Engineer working remotely.
+
+
+My top 10 Gallup Strengths are Arranger, Responsibility, Learner, Ideation, Activator,
+Command, Achiever, Intellection, Input, Communication. My Myers-Briggs is INTJ. I specialize
+in problem-solving, absorbing and understanding complex systems and explaining them in a simple
+manner, and architecting solutions for applications at scale. From building simple 2 server +
+load balancer high availability systems to helping build one of the largest Public Cloud
+deployments in the world which spans multiple datacenters geographically; I have the skills
+necessary to operate any environment at any scale.
 ----
 
 Experience
@@ -30,6 +39,7 @@ Senior Technical Operations Engineer    Jan 2016 - Present
   produced by the team is documented thoroughly.
 * Wrote custom Nagios/Icinga and Telegraf plugins in Golang
 * Wrote custom backup/restore processes in Ruby
+* Active part of compliance and audit readiness efforts. [Helped Eligible get SOC II and HITRUST certified!](http://www.businesswire.com/news/home/20170110006165/en)
 
 
 **SolidFire Inc.**  
