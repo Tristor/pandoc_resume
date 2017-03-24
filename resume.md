@@ -2,32 +2,33 @@ Tyler Duzan
 ===========
 
 ----
-Tyler Duzan is an 12 year veteran of the tech industry. He got his start with computers at a
-very young age, learning his first programming language (BASIC) at six years old. As he got
-older his fascination with computers progressed into a passion for all things technology with
-an emphasis on security. As part of exploring this passion he has learned a broad range of
-technical skills including a deep understanding of Windows, Linux, and networking. While at
-Rackspace Hosting for a little over four years he was involved in many projects including the
-launch of Cloud Databases, writing deployment automation for Cloud Identity enabling the Sydney
-region launch, acting as the Global Technical Product Owner for Linux operating systems at
-Rackspace, and many more. Most recently, Tyler has joined the Y-Combinator backed health
-technology startup Eligible as a Senior Technical Operations Engineer working remotely.
-
+Tyler Duzan is a 10+ year veteran of the tech industry. He got his start with computers
+at a very young age, learning his first programming language (BASIC) at six years old.
+As he got older his fascination with computers progressed into a passion for all things
+technology with an emphasis on security. As part of exploring this passion he has learned
+a broad range of technical skills including a deep understanding of Windows, Linux, and
+networking. Most recently, Tyler has begun applying his methodical data-driven approach
+to decision making and strategic focus to business problems instead of technical problems
+in his role as a Product Manager at Percona.
 
 My top 10 Gallup Strengths are Arranger, Responsibility, Learner, Ideation, Activator,
 Command, Achiever, Intellection, Input, Communication. My Myers-Briggs is INTJ. I specialize
-in problem-solving, absorbing and understanding complex systems and explaining them in a simple
-manner, and architecting solutions for applications at scale. From building simple 2 server +
-load balancer high availability systems to helping build one of the largest Public Cloud
-deployments in the world which spans multiple datacenters geographically; I have the skills
-necessary to operate any environment at any scale.
+in problem-solving, absorbing and understanding complex systems, explaining these systems in
+a simple manner, and producing excellent documentation. During my career I've architected,
+implemented, deployed, and operated everything from a collection of small but business-critical
+applications to the second largest public Cloud in the world. I also have demonstrated success
+at reaching compliance goals and building things with security in mind. My skill-set crosses
+business and technical boundaries, allowing me to solve almost any problem with aplomb. 
 ----
 
 Experience
 ----------
+**Percona**  
+Product Manager    Mar 2017 - Present
+
 
 **Eligible Inc.**  
-Senior Technical Operations Engineer    Jan 2016 - Present
+Senior Technical Operations Engineer    Jan 2016 - Jan 2017
 
 * Managed an environment in the Cloud using Terraform and Amazon Web Services (AWS)
 * Managed environment configurations using Chef, using automated testing with
@@ -287,13 +288,13 @@ License 6035308    Jan 2008
 
 Publications
 ------------
-[Setting Up `fgallery`​ on OS X with Homebrew](https://tristor.ro/blog/2016/11/19/setting-up-fgallery-on-os-x-with-homebrew/)
+[Setting Up `fgallery`​ on OS X with Homebrew](https://tristor.ro/blog/2016/11/19/setting-up-fgallery-on-os-x-with-homebrew/)  
 Self-Published Online   Nov 2016
 
-[Commit Signing with Git, Hub, Keybase, and GPG](https://eligible.com/blog/commit-signing-with-git-hub-keybase-and-gpg/)
+[Commit Signing with Git, Hub, Keybase, and GPG](https://eligible.com/blog/commit-signing-with-git-hub-keybase-and-gpg/)  
 Eligible Inc. Engineering Blog   Nov 2016
 
-[Setting up OpenVPN on CentOS 7 using DigitalOcean](https://tristor.ro/blog/2016/05/05/setting-up-openvpn-on-centos-7-using-digitalocean/)
+[Setting up OpenVPN on CentOS 7 using DigitalOcean](https://tristor.ro/blog/2016/05/05/setting-up-openvpn-on-centos-7-using-digitalocean/)  
 Self-Published Online   May 2016
 
 [Securing Email: Building a Secure Email Server](http://securemail.tristor.ro/#!server.md)  
