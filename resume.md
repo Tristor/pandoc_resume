@@ -299,37 +299,37 @@ License 6035308    					Jan 2008
 
 Talks
 ------------
-[Percona XtraBackup Current and Future State](https://fosdem.org/2020/schedule/event/xtrabackup/)
+[Percona XtraBackup Current and Future State](https://fosdem.org/2020/schedule/event/xtrabackup/)  
 FOSDEM 2020			Feb 2020
 
-[How Container Networking Affects Database Performance](https://www.youtube.com/watch?v=EXqEzZPm4I0)
+[How Container Networking Affects Database Performance](https://www.youtube.com/watch?v=EXqEzZPm4I0)  
 KubeCon NA			Nov 2019
 
-Introduction to Cloud Concepts & Operating Databases in the Cloud
+Introduction to Cloud Concepts & Operating Databases in the Cloud  
 Texas A&M - SATX	Nov 2019
 
-Becoming Cloud Native: How Percona Brings Databases to Kubernetes Using Operators
+Becoming Cloud Native: How Percona Brings Databases to Kubernetes Using Operators  
 Percona Live EU		Sep 2019
 
-[Building a Kubernetes Operator for Percona XtraDB Cluster](https://www.percona.com/live/19/sessions/building-a-kubernetes-operator-for-percona-xtradb-cluster)
+[Building a Kubernetes Operator for Percona XtraDB Cluster](https://www.percona.com/live/19/sessions/building-a-kubernetes-operator-for-percona-xtradb-cluster)  
 Percona Live		May 2019
 
-Sneak Peek: Percona Kubernetes Operators on OpenShift
+Sneak Peek: Percona Kubernetes Operators on OpenShift  
 Red Hat Summit		May 2019
 
-[Automating Database Operations with Ansible, Chef, and Puppet](https://www.percona.com/live/e18/sessions/automating-db-ops-with-ansible-chef-and-puppet)
+[Automating Database Operations with Ansible, Chef, and Puppet](https://www.percona.com/live/e18/sessions/automating-db-ops-with-ansible-chef-and-puppet)  
 Percona Live EU		Nov 2018
 
-[MariaDB Server 10.3 vs MySQL 8.0](https://www.percona.com/live/e18/sessions/mariadb-server-103-vs-mysql-80)
+[MariaDB Server 10.3 vs MySQL 8.0](https://www.percona.com/live/e18/sessions/mariadb-server-103-vs-mysql-80)  
 Percona Live EU		Nov 2018
 
-[GDPR and Security Compliance for the DBA](https://www.percona.com/live/18/sessions/gdpr-and-security-compliance-for-the-dba)
+[GDPR and Security Compliance for the DBA](https://www.percona.com/live/18/sessions/gdpr-and-security-compliance-for-the-dba)  
 Percona Live		April 2018
 
 
 Publications
 ------------
-[How Container Networking Affects Database Performance](https://www.percona.com/blog/2020/03/18/how-container-networking-affects-database-performance/)
+[How Container Networking Affects Database Performance](https://www.percona.com/blog/2020/03/18/how-container-networking-affects-database-performance/)  
 Percona Engineering Blog		Mar 2020
 
 [Setting Up `fgallery`​ on OS X with Homebrew](https://tristor.ro/blog/2016/11/19/setting-up-fgallery-on-os-x-with-homebrew/)  
