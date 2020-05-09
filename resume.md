@@ -26,6 +26,18 @@ Experience
 **Percona**  
 Product Manager    Mar 2017 - Present
 
+* Early Product hire, and helped to establish the Product function within the company.
+* Key in standardizing internal and external policies and processes, including product lifecycles
+* Established a Technical Alliances / Partnership at the company and helped sign several major partnership deals
+	- Cloud partnerships with AWS, Azure, and Google Cloud
+	- Technology partnership with Red Hat and Hashicorp
+* Lead four successful product launches, including a new product category.
+	- Percona Server for MySQL (PS) 8.0 & Percona XtraDB Cluster (PXC) 8.0
+	- Percona Kubernetes Operators for PXC and Percona Server for MongoDB
+* Proposed and lead strategic initiatives around Kubernetes and Cloud
+* Contributed to more than $3M in new sales and customer expansions
+* Talked at conferences around the world on behalf of the company to evangelize our products and technical expertise.
+
 
 **Eligible Inc.**  
 Senior Technical Operations Engineer    Jan 2016 - Jan 2017
@@ -271,34 +283,66 @@ Certifications
 --------------
 
 **CompTIA Network+**  
-License 7QKE7BSKKNQ15NYM   Jun 2005
+License 7QKE7BSKKNQ15NYM   			Jun 2005
 
 **CompTIA Linux+**  
-License 7QKE7BSKKNQ15NYM   May 2007
+License 7QKE7BSKKNQ15NYM   			May 2007
 
 **CompTIA Security+**  
-License 7QKE7BSKKNQ15NYM   May 2007
+License 7QKE7BSKKNQ15NYM   			May 2007
 
 **Certified Scrum Product Owner**  
-Scrum Alliance, License 000348930  Aug 2014
+Scrum Alliance, License 000348930  	Aug 2014
 
 **Microsoft Certified Professional**  
-License 6035308    Jan 2008
+License 6035308    					Jan 2008
+
+Talks
+------------
+[Percona XtraBackup Current and Future State](https://fosdem.org/2020/schedule/event/xtrabackup/)
+FOSDEM 2020			Feb 2020
+
+[How Container Networking Affects Database Performance](https://www.youtube.com/watch?v=EXqEzZPm4I0)
+KubeCon NA			Nov 2019
+
+Introduction to Cloud Concepts & Operating Databases in the Cloud
+Texas A&M - SATX	Nov 2019
+
+Becoming Cloud Native: How Percona Brings Databases to Kubernetes Using Operators
+Percona Live EU		Sep 2019
+
+[Building a Kubernetes Operator for Percona XtraDB Cluster](https://www.percona.com/live/19/sessions/building-a-kubernetes-operator-for-percona-xtradb-cluster)
+Percona Live		May 2019
+
+Sneak Peek: Percona Kubernetes Operators on OpenShift
+Red Hat Summit		May 2019
+
+[Automating Database Operations with Ansible, Chef, and Puppet](https://www.percona.com/live/e18/sessions/automating-db-ops-with-ansible-chef-and-puppet)
+Percona Live EU		Nov 2018
+
+[MariaDB Server 10.3 vs MySQL 8.0](https://www.percona.com/live/e18/sessions/mariadb-server-103-vs-mysql-80)
+Percona Live EU		Nov 2018
+
+[GDPR and Security Compliance for the DBA](https://www.percona.com/live/18/sessions/gdpr-and-security-compliance-for-the-dba)
+Percona Live		April 2018
 
 
 Publications
 ------------
+[How Container Networking Affects Database Performance](https://www.percona.com/blog/2020/03/18/how-container-networking-affects-database-performance/)
+Percona Engineering Blog		Mar 2020
+
 [Setting Up `fgallery`​ on OS X with Homebrew](https://tristor.ro/blog/2016/11/19/setting-up-fgallery-on-os-x-with-homebrew/)  
-Self-Published Online   Nov 2016
+Self-Published Online   		Nov 2016
 
 [Commit Signing with Git, Hub, Keybase, and GPG](https://eligible.com/blog/commit-signing-with-git-hub-keybase-and-gpg/)  
-Eligible Inc. Engineering Blog   Nov 2016
+Eligible Engineering Blog   	Nov 2016
 
 [Setting up OpenVPN on CentOS 7 using DigitalOcean](https://tristor.ro/blog/2016/05/05/setting-up-openvpn-on-centos-7-using-digitalocean/)  
-Self-Published Online   May 2016
+Self-Published Online   		May 2016
 
 [Securing Email: Building a Secure Email Server](http://securemail.tristor.ro/#!server.md)  
-Self-Published Online   Aug 2014
+Self-Published Online   		Aug 2014
 
 ----
 > <tristor@tristor.ro> • +1 (210)213-7249  
