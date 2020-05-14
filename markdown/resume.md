@@ -305,16 +305,16 @@ FOSDEM 2020			Feb 2020
 [How Container Networking Affects Database Performance](https://www.youtube.com/watch?v=EXqEzZPm4I0)  
 KubeCon NA			Nov 2019
 
-Introduction to Cloud Concepts & Operating Databases in the Cloud  
+[Introduction to Cloud Concepts & Operating Databases in the Cloud](https://tristor.ro/files/Invitation_Mr_Duzan.pdf)  
 Texas A&M - SATX	Nov 2019
 
-Becoming Cloud Native: How Percona Brings Databases to Kubernetes Using Operators  
+[Becoming Cloud Native: How Percona Brings Databases to Kubernetes Using Operators](https://tristor.ro/files/slides/Becoming%20Cloud%20Native%20-%20How%20Percona%20Brings%20Databases%20to%20Kubernetes%20Using%20Operators.pdf)  
 Percona Live EU		Sep 2019
 
 [Building a Kubernetes Operator for Percona XtraDB Cluster](https://www.percona.com/live/19/sessions/building-a-kubernetes-operator-for-percona-xtradb-cluster)  
 Percona Live		May 2019
 
-Sneak Peek: Percona Kubernetes Operators on OpenShift  
+[Sneak Peek: Percona Kubernetes Operators on OpenShift](https://tristor.ro/files/slides/Red%20Hat%20Summit%20-%20PXC%20Operator%20Demo.pdf)  
 Red Hat Summit		May 2019
 
 [Automating Database Operations with Ansible, Chef, and Puppet](https://www.percona.com/live/e18/sessions/automating-db-ops-with-ansible-chef-and-puppet)  
@@ -324,13 +324,33 @@ Percona Live EU		Nov 2018
 Percona Live EU		Nov 2018
 
 [GDPR and Security Compliance for the DBA](https://www.percona.com/live/18/sessions/gdpr-and-security-compliance-for-the-dba)  
-Percona Live		April 2018
+Percona Live		Apr 2018
 
+[Database Technology Independent Data at Rest Encryption](https://www.percona.com/live/e17/sessions/database-technology-independent-data-at-rest-encryption)
+Percona Live EU		Oct 2017
+
+[Why Choose Percona Server for MySQL?](https://www.percona.com/live/e17/sessions/why-choose-percona-server-for-mysql)
+Percona Live EU		Oct 2017
+
+[Basic InfoSec for Business Travelers](https://tristor.ro/ry_meraki_exchange-february_2017/)
+RY Tech Talks		Feb 2017
+
+[Making Magic With Nginx: Intro to Linux System Operations, Part 2](https://tristor.ro/ry_techtalks_lisbon-september_2016/)
+RY Tech Talks		Sep 2016
+
+[Welcome to The Cloud: Intro to Linux System Operations](https://tristor.ro/ry_techtalks_london-august_2016/)
+RY Tech Talks		Aug 2016
+
+[Talking to The Machine](https://tristor.ro/ry_techtalks_belgrade-july_2016/)
+RY Tech Talks		Jul 2016
 
 Publications
 ------------
 [How Container Networking Affects Database Performance](https://www.percona.com/blog/2020/03/18/how-container-networking-affects-database-performance/)  
 Percona Engineering Blog		Mar 2020
+
+[Should Your Company Use DBaaS?](https://devops.com/should-your-company-use-dbaas/)
+DevOps.Com						Sep 2019
 
 [Setting Up `fgallery`​ on OS X with Homebrew](https://tristor.ro/blog/2016/11/19/setting-up-fgallery-on-os-x-with-homebrew/)  
 Self-Published Online   		Nov 2016
