@@ -326,22 +326,22 @@ Percona Live EU		Nov 2018
 [GDPR and Security Compliance for the DBA](https://www.percona.com/live/18/sessions/gdpr-and-security-compliance-for-the-dba)  
 Percona Live		Apr 2018
 
-[Database Technology Independent Data at Rest Encryption](https://www.percona.com/live/e17/sessions/database-technology-independent-data-at-rest-encryption)
+[Database Technology Independent Data at Rest Encryption](https://www.percona.com/live/e17/sessions/database-technology-independent-data-at-rest-encryption)  
 Percona Live EU		Oct 2017
 
-[Why Choose Percona Server for MySQL?](https://www.percona.com/live/e17/sessions/why-choose-percona-server-for-mysql)
+[Why Choose Percona Server for MySQL?](https://www.percona.com/live/e17/sessions/why-choose-percona-server-for-mysql)  
 Percona Live EU		Oct 2017
 
-[Basic InfoSec for Business Travelers](https://tristor.ro/ry_meraki_exchange-february_2017/)
+[Basic InfoSec for Business Travelers](https://tristor.ro/ry_meraki_exchange-february_2017/)  
 RY Tech Talks		Feb 2017
 
-[Making Magic With Nginx: Intro to Linux System Operations, Part 2](https://tristor.ro/ry_techtalks_lisbon-september_2016/)
+[Making Magic With Nginx: Intro to Linux System Operations, Part 2](https://tristor.ro/ry_techtalks_lisbon-september_2016/)  
 RY Tech Talks		Sep 2016
 
-[Welcome to The Cloud: Intro to Linux System Operations](https://tristor.ro/ry_techtalks_london-august_2016/)
+[Welcome to The Cloud: Intro to Linux System Operations](https://tristor.ro/ry_techtalks_london-august_2016/)  
 RY Tech Talks		Aug 2016
 
-[Talking to The Machine](https://tristor.ro/ry_techtalks_belgrade-july_2016/)
+[Talking to The Machine](https://tristor.ro/ry_techtalks_belgrade-july_2016/)  
 RY Tech Talks		Jul 2016
 
 Publications
@@ -349,7 +349,7 @@ Publications
 [How Container Networking Affects Database Performance](https://www.percona.com/blog/2020/03/18/how-container-networking-affects-database-performance/)  
 Percona Engineering Blog		Mar 2020
 
-[Should Your Company Use DBaaS?](https://devops.com/should-your-company-use-dbaas/)
+[Should Your Company Use DBaaS?](https://devops.com/should-your-company-use-dbaas/)  
 DevOps.Com						Sep 2019
 
 [Setting Up `fgallery`​ on OS X with Homebrew](https://tristor.ro/blog/2016/11/19/setting-up-fgallery-on-os-x-with-homebrew/)  
