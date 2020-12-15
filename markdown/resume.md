@@ -2,14 +2,16 @@ Tyler Duzan
 ===========
 
 ----
-Tyler Duzan is a 10+ year veteran of the tech industry. He got his start with computers
+Tyler Duzan is a 15+ year veteran of the tech industry. He got his start with computers
 at a very young age, learning his first programming language (BASIC) at six years old.
 As he got older his fascination with computers progressed into a passion for all things
 technology with an emphasis on security. As part of exploring this passion he has learned
 a broad range of technical skills including a deep understanding of Windows, Linux, and
-networking. Most recently, Tyler has begun applying his methodical data-driven approach
+networking. Tyler has begun applying his methodical data-driven approach
 to decision making and strategic focus to business problems instead of technical problems
-in his role as a Product Manager at Percona.
+in his role as a Product Manager.  Most recently, Tyler joined the team at Mozilla as 
+the Network Security Product Manager in Firefox Desktop working on DoH, QUIC, ECH, to enhance
+user privacy and security on the web.
 
 My top 10 Gallup Strengths are Arranger, Responsibility, Learner, Ideation, Activator,
 Command, Achiever, Intellection, Input, Communication. My Myers-Briggs is INTJ. I specialize
@@ -23,8 +25,15 @@ business and technical boundaries, allowing me to solve almost any problem with 
 
 Experience
 ----------
+**Mozilla**
+Network Security Product Manager	Jul 2020 - Present
+
+* Working cross-functionally in the organization with Partnerships, Legal, Policy, and Engineering to ensure a smooth global rollout of DNS-Over-HTTPS in Firefox.
+* On Loan to New Products Org to create product strategy, vision, and roadmap for Mozilla VPN from 2.0 onwards
+
+
 **Percona**  
-Product Manager    Mar 2017 - Present
+Product Manager    Mar 2017 - Jul 2020
 
 * Early Product hire, and helped to establish the Product function within the company.
 * Key in standardizing internal and external policies and processes, including product lifecycles
@@ -346,6 +355,9 @@ RY Tech Talks		Jul 2016
 
 Publications
 ------------
+[Data as an Anchor](https://www.youtube.com/watch?v=WfkZIjqQ-Ow)
+DoK Community Animation			Dec 2020
+
 [How Container Networking Affects Database Performance](https://www.percona.com/blog/2020/03/18/how-container-networking-affects-database-performance/)  
 Percona Engineering Blog		Mar 2020
 
@@ -363,6 +375,11 @@ Self-Published Online   		May 2016
 
 [Securing Email: Building a Secure Email Server](http://securemail.tristor.ro/#!server.md)  
 Self-Published Online   		Aug 2014
+
+Interviews and Podcasts
+------------
+[Tyler Duzan weighs in on data/k8s - Dos, Don'ts, Maybes, and Security!](https://www.youtube.com/watch?v=1d9aCjrlfxw)
+DoK Community Podcast			Nov 2020
 
 ----
 > <tristor@tristor.ro> • +1 (210)213-7249  
