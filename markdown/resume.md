@@ -29,7 +29,10 @@ Experience
 Network Security Product Manager	Jul 2020 - Present
 
 * Working cross-functionally in the organization with Partnerships, Legal, Policy, and Engineering to ensure a smooth global rollout of DNS-Over-HTTPS in Firefox.
-* On Loan to New Products Org to create product strategy, vision, and roadmap for Mozilla VPN from 2.0 onwards
+* Roadmapping and Release Planning for new networking and network security standards like ECH, HTTPSSVC, and QUIC.
+* Temporarily took product ownership of Mozilla VPN to defined the roadmap and goals for its 2.0 release (completed Jan 2021) and put it on track to hit aggressive growth targets through the end of 2021.
+* Assisting the Product Lead for Firefox Major Release 1 in 2021
+* Acting as Product Lead for Firefox Major Release 2 in 2021
 
 
 **Percona**  
