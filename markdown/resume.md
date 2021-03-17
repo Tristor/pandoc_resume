@@ -26,7 +26,7 @@ business and technical boundaries, allowing me to solve almost any problem with 
 Experience
 ----------
 **Mozilla**
-Network Security Product Manager	Jul 2020 - Present
+Senior Product Manager, Network Security	Jul 2020 - Present
 
 * Working cross-functionally in the organization with Partnerships, Legal, Policy, and Engineering to ensure a smooth global rollout of DNS-Over-HTTPS in Firefox.
 * Roadmapping and Release Planning for new networking and network security standards like ECH, HTTPSSVC, and QUIC.
@@ -40,14 +40,14 @@ Product Manager    Mar 2017 - Jul 2020
 
 * Early Product hire, and helped to establish the Product function within the company.
 * Key in standardizing internal and external policies and processes, including product lifecycles
-* Established a Technical Alliances / Partnership at the company and helped sign several major partnership deals
+* Established a Technical Alliances / Partnership function at the company and helped sign several major partnership deals
 	- Cloud partnerships with AWS, Azure, and Google Cloud
 	- Technology partnership with Red Hat and Hashicorp
 * Lead four successful product launches, including a new product category.
 	- Percona Server for MySQL (PS) 8.0 & Percona XtraDB Cluster (PXC) 8.0
 	- Percona Kubernetes Operators for PXC and Percona Server for MongoDB
 * Proposed and lead strategic initiatives around Kubernetes and Cloud
-* Contributed to more than $3M in new sales and customer expansions
+* Directly contributed to more than $3M in new sales and customer expansions
 * Talked at conferences around the world on behalf of the company to evangelize our products and technical expertise.
 
 
