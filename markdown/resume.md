@@ -9,9 +9,9 @@ technology with an emphasis on security. As part of exploring this passion he ha
 a broad range of technical skills including a deep understanding of Windows, Linux, and
 networking. Tyler has begun applying his methodical data-driven approach
 to decision making and strategic focus to business problems instead of technical problems
-in his role as a Product Manager.  Most recently, Tyler joined the team at Mozilla as 
-the Network Security Product Manager in Firefox Desktop working on DoH, QUIC, ECH, to enhance
-user privacy and security on the web.
+in his role as a Product Manager.  Most recently, Tyler has joined the team at ThousandEyes,
+part of Cisco, to lead Agent Strategy growing the points of visibility around the world
+running ThousandEyes Cloud and Enterprise Agents as well as overseeing the BGP product area.
 
 My top 10 Gallup Strengths are Arranger, Responsibility, Learner, Ideation, Activator,
 Command, Achiever, Intellection, Input, Communication. My Myers-Briggs is INTJ. I specialize
@@ -25,10 +25,41 @@ business and technical boundaries, allowing me to solve almost any problem with 
 
 Experience
 ----------
+**Cisco ThousandEyes**
+Product Lead, Agent Strategy & BGP				Jan 2022 - Present
+
+* Drive integrations of the ThousandEyes Enterprise Agent across new platforms within and without the Cisco portfolio.
+	- Product Lead for the Meraki / ThousandEyes Integration project announced at Cisco Live 2023
+	- Drove Cisco Nexus team to incorporate the Cisco Application Hosting Framework (CAF) into NX-OS (released 05/31/2023 w/ 10.3.3), enabling
+	deployment of ThousandEyes Enterprise Agents on Nexus 9k and Nexus 3k devices running NX-OS.
+	- Drove ongoing work with Cisco SDWAN Routing and Cisco Catalyst Switching to add Enterprise Agent support to additional device PIDs.
+* Roadmapping and Release Planning for Enterprise Agent, defining new feature targets and OKRs in conjunction with the DirEng & EMs
+	- Added automatic upgrade support for OS lifecycles to ThousandEyes Virtual Appliance and Physical Appliance deployment types
+	- Shipped the ThousandEyes Terraform Provider and Golang SDK based on adopting community work and enhancing it further
+	- Shipped support for IPv6-only environments within the ThousandEyes Enterprise Agent on a subset of platforms, continuing to grow, and driving IPv6 adoption across the entire ThousandEyes business
+* Roadmapping and Location Planning for Cloud Agent PoPs, defining new locations based on customer request and company strategy in conjuction with the EM.
+* Working cross-functionally with Revenue Product, Finance, Sales, Strategy & Operations, and Legal teams on new pricing strategies and models for the ThousandEyes CEA business
+* Continued driving partnership work between ThousandEyes and AWS, turning this into a Product-led rather than BizDev-led motion
+	- First announced integration with AWS path visualization enhancements announced at Cisco Live US 2023
+* Assisting the Sales team to help close strategic deals by ensuring customers understand and are engaged in our long-term strategic vision and product roadmap
+	- Was a key party to the largest deal in ThousandEyes history
+	- Deliver product strategy sessions under NDA with existing customers and key prospects
+	- Meet with strategic customers during key Cisco events like Cisco Live and Partner Summit to support business expansion
+	- Drive product-led sales motions for new product introductions to market as part of larger go-to-market strategy
+* Talked at conferences around the world about ThousandEyes
+	- AWS re:Invent 2022
+	- Cisco Live EMEA 2023
+	- Cisco Live US 2023
+	- Complete list of my talks and publications at the bottom of this page
+	
+
 **Mozilla**
-Senior Product Manager, Network Security	Jul 2020 - Present
+Senior Product Manager, Network Security	Jul 2020 - Jan 2022
 
 * Working cross-functionally in the organization with Partnerships, Legal, Policy, and Engineering to ensure a smooth global rollout of DNS-Over-HTTPS (DoH) in Firefox.
+	- Lead the rollout of DoH in Canada with CIRA
+	- Maintained partner relationships with CloudFlare and Comcast in the US
+	- Identified and cultivated partner relationships in other key markets
 * Roadmapping and Release Planning for new networking and network security standards like ECH, HTTPSSVC, and QUIC.
 * Temporarily took product ownership of Mozilla VPN to defined the roadmap and goals for its 2.0 release (completed Jan 2021) and put it on track to hit aggressive growth targets through the end of 2021.
 * Assisting the Product Lead for Firefox Major Release 1 in 2021, released as [Firefox 89](https://blog.mozilla.org/en/mozilla/news/modern-clean-new-firefox-clears-the-way-to-all-you-need-online/)
@@ -319,6 +350,18 @@ License 6035308    					Jan 2008
 
 Talks
 ------------
+[Making Meraki SD-WAN ThousandEyes Aware PSOAPP-1618](https://www.ciscolive.com/global/learn/technical-education/session-catalog.html?search=PSOAPP-1618#/)  
+Cisco Live US		Jun 2023
+
+[The Journey to Hosting Containers on Meraki MX with ThousandEyes BRKAPP-2727](https://www.ciscolive.com/global/learn/technical-education/session-catalog.html?search=BRKAPP-2727#/)  
+Cisco Live US		Jun 2023
+
+[Containerizing the ThousandEyes Enterprise Agent for Platform Integration BRKAPP-2727](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/BRKAPP-2727.pdf)  
+Cisco Live EMEA	Feb 2023
+
+[Owning end user experience in an internet world (sponsored by ThousandEyes) PRT067](https://portal.awsevents.com/events/reInvent2022/sessions/)
+AWS re:Invent		Nov 2022
+
 [Percona XtraBackup Current and Future State](https://fosdem.org/2020/schedule/event/xtrabackup/)  
 FOSDEM 2020			Feb 2020
 
