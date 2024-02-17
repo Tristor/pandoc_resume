@@ -20,8 +20,9 @@ problem with aplomb.
 Experience
 ----------
 **Cisco ThousandEyes**  
-Product Lead, Agent Strategy & BGP				Jan 2022 - Present
+Product Lead, Agent Strategy				Jan 2022 - Present
 
+* Also was Product Lead for BGP from Jan 2022 to Nov 2023
 * Drive integrations of the ThousandEyes Enterprise Agent across new platforms within and without the Cisco portfolio.
 	- Product Lead for the Meraki / ThousandEyes Integration project announced at Cisco Live 2023 (GA 11/14/23)
 	- Drove Cisco Nexus team to incorporate the Cisco Application Hosting Framework (CAF) into NX-OS (released 05/31/2023 w/ 10.3.3), enabling
@@ -102,10 +103,10 @@ Students In Free Enterprise (Vice-Pres 2 Years), CPU Society (Secretary
 Certifications
 --------------
 
-**LPI Linux Essentials**
+**LPI Linux Essentials**  
 License jc5m86nhcy							Feb 2024
 
-**CompTIA Cloud+**
+**CompTIA Cloud+**  
 License QP8BBZ84HY60FZ3W				Feb 2024
 
 **CompTIA A+**  
