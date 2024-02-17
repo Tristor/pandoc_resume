@@ -322,7 +322,7 @@ QA/Bug Triage (volunteer)     Nov 2003 - Aug 2006
 Education
 ---------
 
-2024 - (2026)
+2024 - (2026)  
 **BS Network Engineering & Information Security**; Western Governor's University
 
 Current Student, Expected Graduation Date January 2026
