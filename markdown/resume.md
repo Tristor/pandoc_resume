@@ -338,6 +338,9 @@ Students In Free Enterprise (Vice-Pres 2 Years), CPU Society (Secretary
 Certifications
 --------------
 
+**LPI Linux Essentials**
+License jc5m86nhcy							Feb 2024
+
 **CompTIA Cloud+**
 License QP8BBZ84HY60FZ3W				Feb 2024
 
