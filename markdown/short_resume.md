@@ -17,10 +17,9 @@ Command, Achiever, Intellection, Input, Communication. His Myers-Briggs is INTJ.
 skill-set crosses business and technical boundaries, allowing me to solve almost any
 problem with aplomb. 
 
-
 Experience
 ----------
-**Cisco ThousandEyes**
+**Cisco ThousandEyes**  
 Product Lead, Agent Strategy & BGP				Jan 2022 - Present
 
 * Drive integrations of the ThousandEyes Enterprise Agent across new platforms within and without the Cisco portfolio.
@@ -42,12 +41,8 @@ Product Lead, Agent Strategy & BGP				Jan 2022 - Present
 	- Meet with strategic customers during key Cisco events like Cisco Live and Partner Summit to support business expansion
 	- Drive product-led sales motions for new product introductions to market as part of larger go-to-market strategy
 * Talked at conferences around the world about ThousandEyes
-	- AWS re:Invent 2022
-	- Cisco Live EMEA 2023
-	- Cisco Live US 2023
-	- Complete list of my talks and publications at the bottom of this page
 
-**Mozilla**
+**Mozilla**  
 Senior Product Manager, Network Security	Jul 2020 - Jan 2022
 
 * Working cross-functionally in the organization with Partnerships, Legal, Policy, and Engineering to ensure a smooth global rollout of DNS-Over-HTTPS (DoH) in Firefox.
@@ -60,7 +55,6 @@ Senior Product Manager, Network Security	Jul 2020 - Jan 2022
 	- PM Lead for the Client UI (until Sep 2020) and History & Metadata components
 	- Working closely with the PM Leads for other components within the browser
 	- Working cross-functionally with UX, Engineering, QA, and other PMs.
-
 
 **Percona**  
 Product Manager    Mar 2017 - Jul 2020
@@ -76,10 +70,6 @@ Product Manager    Mar 2017 - Jul 2020
 * Proposed and lead strategic initiatives around Kubernetes and Cloud
 * Directly contributed to more than $3M in new sales and customer expansions
 * Talked at conferences around the world on behalf of the company to evangelize our products and technical expertise.
-	- Co-Presented "How Container Networking Affects Database Performance" with Percona CTO at KubeCon NA 2019
-	- Was interviewed for the Data on Kubernetes podcast in 2020
-	- Other talks listed at the bottom of resume with slides linked
-
 
 **Eligible Inc.**  
 Senior Technical Operations Engineer    Jan 2016 - Jan 2017
@@ -102,7 +92,12 @@ IT Contractor (freelance)	Sep 2004 - Dec 2007
 Education
 ---------
 
-2004 - 2008  
+2024 - (2026)
+**BS Network Engineering & Information Security**; Western Governor's University
+
+Current Student, Expected Graduation Date January 2026
+
+2004 - 2008 (DNF)  
 **AAS, Networking Technology**; Ozarks Technical Community College
 (Springfield, MO)
 
@@ -114,14 +109,20 @@ Students In Free Enterprise (Vice-Pres 2 Years), CPU Society (Secretary
 Certifications
 --------------
 
+**CompTIA Cloud+**
+License QP8BBZ84HY60FZ3W				Feb 2024
+
+**CompTIA A+**  
+License VL0WG107FY5LFF92   			Feb 2024
+
 **CompTIA Network+**  
-License 7QKE7BSKKNQ15NYM   			Jun 2005
+License PHD1KX52VEQ42M28   			Jun 2005
 
 **CompTIA Linux+**  
-License 7QKE7BSKKNQ15NYM   			May 2007
+License ZE59MG8D4NBQC6TJ   			May 2007
 
 **CompTIA Security+**  
-License 7QKE7BSKKNQ15NYM   			May 2007
+License 3JV6ZS8D72RQSVM3   			May 2007
 
 **Certified Scrum Product Owner**  
 Scrum Alliance, License 000348930  	Aug 2014
@@ -135,4 +136,4 @@ For a complete listing of all of my talks, publications, and interviews visit my
 
 ----
 > <tristor@tristor.ro> • +1 (210)213-7249  
-> 7404 Forest Stream • Live Oak, TX 78233
+> 8254 W. Eastman Pl • Lakewood, CO 80227

@@ -25,7 +25,7 @@ business and technical boundaries, allowing me to solve almost any problem with 
 
 Experience
 ----------
-**Cisco ThousandEyes**
+**Cisco ThousandEyes**  
 Product Lead, Agent Strategy & BGP				Jan 2022 - Present
 
 * Drive integrations of the ThousandEyes Enterprise Agent across new platforms within and without the Cisco portfolio.
@@ -53,7 +53,7 @@ Product Lead, Agent Strategy & BGP				Jan 2022 - Present
 	- Complete list of my talks and publications at the bottom of this page
 	
 
-**Mozilla**
+**Mozilla**  
 Senior Product Manager, Network Security	Jul 2020 - Jan 2022
 
 * Working cross-functionally in the organization with Partnerships, Legal, Policy, and Engineering to ensure a smooth global rollout of DNS-Over-HTTPS (DoH) in Firefox.
@@ -321,7 +321,12 @@ QA/Bug Triage (volunteer)     Nov 2003 - Aug 2006
 Education
 ---------
 
-2004 - 2008  
+2024 - (2026)
+**BS Network Engineering & Information Security**; Western Governor's University
+
+Current Student, Expected Graduation Date January 2026
+
+2004 - 2008 (DNF)  
 **AAS, Networking Technology**; Ozarks Technical Community College
 (Springfield, MO)
 
@@ -333,14 +338,20 @@ Students In Free Enterprise (Vice-Pres 2 Years), CPU Society (Secretary
 Certifications
 --------------
 
+**CompTIA Cloud+**
+License QP8BBZ84HY60FZ3W				Feb 2024
+
+**CompTIA A+**  
+License VL0WG107FY5LFF92   			Feb 2024
+
 **CompTIA Network+**  
-License 7QKE7BSKKNQ15NYM   			Jun 2005
+License PHD1KX52VEQ42M28   			Jun 2005
 
 **CompTIA Linux+**  
-License 7QKE7BSKKNQ15NYM   			May 2007
+License ZE59MG8D4NBQC6TJ   			May 2007
 
 **CompTIA Security+**  
-License 7QKE7BSKKNQ15NYM   			May 2007
+License 3JV6ZS8D72RQSVM3   			May 2007
 
 **Certified Scrum Product Owner**  
 Scrum Alliance, License 000348930  	Aug 2014
@@ -437,4 +448,4 @@ DoK Community Podcast			Nov 2020
 
 ----
 > <tristor@tristor.ro> • +1 (210)213-7249  
-> 7404 Forest Stream • Live Oak, TX 78233
+> 8254 W. Eastman Pl • Lakewood, CO 80227
