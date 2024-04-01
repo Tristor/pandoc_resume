@@ -339,6 +339,12 @@ Students In Free Enterprise (Vice-Pres 2 Years), CPU Society (Secretary
 Certifications
 --------------
 
+**ITILv4 Foundations**  
+License GR671636188TD						Mar 2024
+
+**CompTIA Project+**  
+License 8BJTHS97PQ3LFDWF				Feb 2024
+
 **LPI Linux Essentials**  
 License jc5m86nhcy							Feb 2024
 
